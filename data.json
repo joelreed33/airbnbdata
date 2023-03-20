@@ -1,4 +1,6 @@
-{
+
+[
+   {
    "accommodates": 2,
    "bedrooms": 1,
    "beds": 2,
@@ -2658,3 +2660,4 @@
    "price": "$100.00",
    "region_name": "Coastal Ward"
  }
+   ]
